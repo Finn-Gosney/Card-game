@@ -55,6 +55,18 @@
         <mxCell id="jmS-39_FOjuwc4T6Ji6Z-48" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="320" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-50" value="Salesperson" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="434" width="180" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-51" value="SalespersonNumber (PK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jmS-39_FOjuwc4T6Ji6Z-50">
+          <mxGeometry y="26" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-53" value="Office" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="470" width="180" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-54" value="&lt;div&gt;OfficeNumber (PK)&lt;/div&gt;&lt;div&gt;TelephoneNumber&lt;/div&gt;&lt;div&gt;RoomNumber&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jmS-39_FOjuwc4T6Ji6Z-53">
+          <mxGeometry y="26" width="180" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
