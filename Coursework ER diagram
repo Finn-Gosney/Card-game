@@ -106,7 +106,7 @@
         <mxCell id="MnB_m971vmpdpVXv9FhP-12" value="Each branch has multiple offices, and every office belongs to exactly one branch. This means each office is dependent on an assigned branch, and there are no orphan offices." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="515" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnB_m971vmpdpVXv9FhP-13" value="&lt;br&gt; Each branch has one assigned Branch Manager, and a branch manager manages only one branch. This is essentially a recursive association where a salesperson (specifically a Branch Manager) manages their own branch.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MnB_m971vmpdpVXv9FhP-13" value="&lt;br&gt; Each branch has one assigned Branch Manager, and a branch manager manages only one branch. This is a recursive association where a salesperson (specifically a Branch Manager) manages their own branch.&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1190" y="290" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MnB_m971vmpdpVXv9FhP-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.001;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.34;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jmS-39_FOjuwc4T6Ji6Z-60" target="jmS-39_FOjuwc4T6Ji6Z-22">
