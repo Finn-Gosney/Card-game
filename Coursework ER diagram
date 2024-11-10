@@ -43,7 +43,7 @@
         <mxCell id="jmS-39_FOjuwc4T6Ji6Z-43" value="&lt;div&gt;BranchID (PK)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jmS-39_FOjuwc4T6Ji6Z-42" vertex="1">
           <mxGeometry y="26" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnB_m971vmpdpVXv9FhP-1" value="BranchManagerID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jmS-39_FOjuwc4T6Ji6Z-42">
+        <mxCell id="MnB_m971vmpdpVXv9FhP-1" value="BranchManagerNumber" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jmS-39_FOjuwc4T6Ji6Z-42">
           <mxGeometry y="56" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnB_m971vmpdpVXv9FhP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="jmS-39_FOjuwc4T6Ji6Z-42" source="jmS-39_FOjuwc4T6Ji6Z-42" target="MnB_m971vmpdpVXv9FhP-1">
@@ -62,10 +62,10 @@
           <mxGeometry x="680" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jmS-39_FOjuwc4T6Ji6Z-50" value="Salesperson" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="240" y="520" width="180" height="96" as="geometry" />
+          <mxGeometry x="240" y="520" width="180" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-51" value="&lt;div&gt;SalespersonNumber (PK)&lt;/div&gt;&lt;div&gt;DateOfHire&lt;/div&gt;&lt;div&gt;CommissionPercentage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jmS-39_FOjuwc4T6Ji6Z-50" vertex="1">
-          <mxGeometry y="26" width="180" height="70" as="geometry" />
+        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-51" value="&lt;div&gt;SalespersonNumber (PK)&lt;/div&gt;&lt;div&gt;DateOfHire&lt;/div&gt;&lt;div&gt;CommissionPercentage&lt;/div&gt;&lt;div&gt;OfficeNumber&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jmS-39_FOjuwc4T6Ji6Z-50" vertex="1">
+          <mxGeometry y="26" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jmS-39_FOjuwc4T6Ji6Z-53" value="Office" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550" y="525" width="180" height="86" as="geometry" />
