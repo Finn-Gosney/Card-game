@@ -76,7 +76,7 @@
         <mxCell id="jmS-39_FOjuwc4T6Ji6Z-59" value="Employees" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="10" y="723" width="160" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-60" value="&lt;div&gt;EmployeedID(PK)&lt;/div&gt;&lt;div&gt;CustomerID(FK)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; fName &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; lName&lt;/div&gt;&lt;div&gt;Address&lt;/div&gt;&lt;div&gt;PhoneNumber&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jmS-39_FOjuwc4T6Ji6Z-59" vertex="1">
+        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-60" value="&lt;div&gt;EmployeedID(PK)&lt;/div&gt;&lt;div&gt;CustomerID(FK)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; fName &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; lName&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jmS-39_FOjuwc4T6Ji6Z-59" vertex="1">
           <mxGeometry y="26" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MnB_m971vmpdpVXv9FhP-3" value="BranchManager" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
