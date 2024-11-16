@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1382" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="975" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,6 +201,27 @@
         </mxCell>
         <mxCell id="EEkEwbJ5NIJEwQSeAHYd-9" value="&amp;lt; Fulfills" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1060" y="886" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg-DugbqowqJkSwXnMcA-1" value="Position" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="10" y="565" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg-DugbqowqJkSwXnMcA-2" value="&lt;div&gt;PositionID(PK)&lt;br&gt;Name&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Qg-DugbqowqJkSwXnMcA-1">
+          <mxGeometry y="26" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg-DugbqowqJkSwXnMcA-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg-DugbqowqJkSwXnMcA-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.439;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.439;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qg-DugbqowqJkSwXnMcA-2" target="jmS-39_FOjuwc4T6Ji6Z-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="700" as="sourcePoint" />
+            <mxPoint x="80" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qg-DugbqowqJkSwXnMcA-6" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="631" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg-DugbqowqJkSwXnMcA-7" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="690" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
