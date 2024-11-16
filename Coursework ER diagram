@@ -208,9 +208,6 @@
         <mxCell id="Qg-DugbqowqJkSwXnMcA-2" value="&lt;div&gt;PositionID(PK)&lt;br&gt;Name&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Qg-DugbqowqJkSwXnMcA-1">
           <mxGeometry y="26" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qg-DugbqowqJkSwXnMcA-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="600" width="200" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="Qg-DugbqowqJkSwXnMcA-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.439;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.439;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qg-DugbqowqJkSwXnMcA-2" target="jmS-39_FOjuwc4T6Ji6Z-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="700" as="sourcePoint" />
