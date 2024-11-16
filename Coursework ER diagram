@@ -67,7 +67,7 @@
         <mxCell id="jmS-39_FOjuwc4T6Ji6Z-57" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-58" value="" style="endArrow=none;html=1;rounded=0;entryX=0.834;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.003;exitY=0.339;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="jmS-39_FOjuwc4T6Ji6Z-57" edge="1" source="Qg-DugbqowqJkSwXnMcA-9">
+        <mxCell id="jmS-39_FOjuwc4T6Ji6Z-58" value="" style="endArrow=none;html=1;rounded=0;entryX=0.834;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.324;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="jmS-39_FOjuwc4T6Ji6Z-57" edge="1" source="Qg-DugbqowqJkSwXnMcA-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="579" as="sourcePoint" />
             <mxPoint x="820" y="580" as="targetPoint" />
@@ -221,10 +221,10 @@
           <mxGeometry x="80" y="690" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qg-DugbqowqJkSwXnMcA-8" value="BranchEmployee" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="830" y="530" width="180" height="96" as="geometry" />
+          <mxGeometry x="830" y="520" width="180" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="Qg-DugbqowqJkSwXnMcA-9" value="&lt;div&gt;BranchEmployeeNumber(PK)&lt;br&gt;&lt;/div&gt;&lt;div&gt;DateOfHire&lt;/div&gt;&lt;div&gt;OfficeNumber(FK)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ContactDetails&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Qg-DugbqowqJkSwXnMcA-8">
-          <mxGeometry y="26" width="180" height="70" as="geometry" />
+        <mxCell id="Qg-DugbqowqJkSwXnMcA-9" value="&lt;div&gt;BranchEmployeeNumber(PK)&lt;br&gt;&lt;/div&gt;&lt;div&gt;DateOfHire&lt;/div&gt;&lt;div&gt;OfficeNumber(FK)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ContactDetails&lt;/div&gt;&lt;div&gt;isSalesperson&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Qg-DugbqowqJkSwXnMcA-8">
+          <mxGeometry y="26" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Qg-DugbqowqJkSwXnMcA-21" value="1..* " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="550" width="60" height="30" as="geometry" />
